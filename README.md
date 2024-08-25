@@ -1,7 +1,7 @@
 # tui-big-text
 
 > [!IMPORTANT]
-> This repo has been consolidated into <https://github.com/tui-widgets>. All future work will happen
+> This repo has been consolidated into https://github.com/joshka/tui-widgets. All future work will happen
 > there. The crate will remain available as tui-big-text, but this repo is now archived.
 
 <!-- cargo-rdme start -->
